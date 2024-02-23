@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.pde": "c",
+        "bmi088.h": "c",
+        "spl06.h": "c",
+        "qmc5883.h": "c",
+        "debug.h": "c",
+        "stdio.h": "c",
+        "spi.h": "c",
+        "main.h": "c",
+        "ws2812.h": "c",
+        "mdelay.h": "c",
+        "i2c.h": "c",
+        "usart.h": "c",
+        "GY-27-HMC5883 STC IIC测试程序.C": "cpp",
+        "imu.h": "c"
+    }
+}

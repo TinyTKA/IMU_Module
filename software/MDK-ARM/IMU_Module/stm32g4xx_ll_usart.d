@@ -1,0 +1,13 @@
+imu_module\stm32g4xx_ll_usart.o: ../Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_usart.c
+imu_module\stm32g4xx_ll_usart.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_usart.h
+imu_module\stm32g4xx_ll_usart.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g4xx.h
+imu_module\stm32g4xx_ll_usart.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g431xx.h
+imu_module\stm32g4xx_ll_usart.o: ../Drivers/CMSIS/Include/core_cm4.h
+imu_module\stm32g4xx_ll_usart.o: D:\KEILMDK\software\ARM\ARMCC\Bin\..\include\stdint.h
+imu_module\stm32g4xx_ll_usart.o: ../Drivers/CMSIS/Include/cmsis_version.h
+imu_module\stm32g4xx_ll_usart.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+imu_module\stm32g4xx_ll_usart.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+imu_module\stm32g4xx_ll_usart.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+imu_module\stm32g4xx_ll_usart.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/system_stm32g4xx.h
+imu_module\stm32g4xx_ll_usart.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_rcc.h
+imu_module\stm32g4xx_ll_usart.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_bus.h
